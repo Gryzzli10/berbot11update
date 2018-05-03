@@ -1,1 +1,2 @@
-# berbot11update
+# bearbot
+bocik taki o v2
